@@ -1,9 +1,7 @@
 import React, { useState  } from 'react';
 import styled from 'styled-components';
-
 import Buttons from '../Buttons/Buttons';
 import Stats from '../Stats/Stats';
-
 
 const Feedback = ()=> {
   const [feedback, setFeedback] = useState ({
@@ -12,7 +10,6 @@ const Feedback = ()=> {
       bad: 0,
     });
   
-
   const onClickAddToStat = value => {
     setFeedback (prevState => {
       return { ...prevState, [value]: prevState[value] + 1 };
@@ -30,7 +27,6 @@ const Feedback = ()=> {
     return total > 0 ? +((100 / total) * feedback.good).toFixed(): 0;
   };
 
-  
     return (
       <Container>
         <h2>Please leave feedback</h2>

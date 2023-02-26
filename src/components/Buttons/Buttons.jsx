@@ -20,8 +20,7 @@ const Buttons =  ({onClick, options})  =>{
       </Wrapper>
     );
   }
-
-
+console.log(Buttons)
 
 const Wrapper = styled.ul`
   display: flex;
