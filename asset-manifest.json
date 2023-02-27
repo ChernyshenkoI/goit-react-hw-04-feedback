@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ChernyshenkoI/goit-react-hw-04-feedback/static/css/main.f16d0f68.css",
+    "main.css": "/ChernyshenkoI/goit-react-hw-04-feedback/static/css/main.7d01869c.css",
     "main.js": "/ChernyshenkoI/goit-react-hw-04-feedback/static/js/main.830b2ecf.js",
     "index.html": "/ChernyshenkoI/goit-react-hw-04-feedback/index.html",
-    "main.f16d0f68.css.map": "/ChernyshenkoI/goit-react-hw-04-feedback/static/css/main.f16d0f68.css.map",
+    "main.7d01869c.css.map": "/ChernyshenkoI/goit-react-hw-04-feedback/static/css/main.7d01869c.css.map",
     "main.830b2ecf.js.map": "/ChernyshenkoI/goit-react-hw-04-feedback/static/js/main.830b2ecf.js.map"
   },
   "entrypoints": [
-    "static/css/main.f16d0f68.css",
+    "static/css/main.7d01869c.css",
     "static/js/main.830b2ecf.js"
   ]
 }
