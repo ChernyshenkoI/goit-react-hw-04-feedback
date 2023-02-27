@@ -48,7 +48,7 @@ const Feedback = ()=> {
 
 
 const Container = styled.div`
-  margin: 10 15px;
+  margin: 0 15px;
 `;
 
 export default Feedback;
